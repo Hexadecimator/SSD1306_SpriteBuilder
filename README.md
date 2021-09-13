@@ -15,3 +15,6 @@ Operating instructions:
   6. With the python script and the .xls file in the same folder, run the python script.
   7. The python script will output in the terminal window the full code you will need to paste into your own SSD1306 code to create the sprite on the SSD1306 screen
     7a. Copy the code from the python terminal output to your code. Change the name of the sprite if you care to do so (default sprite name is logo_bmp[])
+    
+    
+ Examples .xls files are included in the "finished sprites" folder of the repository
